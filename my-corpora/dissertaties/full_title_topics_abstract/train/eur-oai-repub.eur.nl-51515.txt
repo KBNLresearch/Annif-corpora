@@ -1,0 +1,4 @@
+Data consistency in summary measures of population health
+
+health population DALY methodology incidence-prevalence-mortality (IPM) epidemiological data
+

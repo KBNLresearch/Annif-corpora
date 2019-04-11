@@ -1,0 +1,4 @@
+Bio-inspired algorithms for pattern recognition in audio and image processing
+
+To be checked by Faculty
+

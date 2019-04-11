@@ -1,0 +1,4 @@
+Reactive transport simulations of microbial activity and biogeochemical transformations in porous environments - development and application of a pore-network model
+
+biodegradation Pore-network modeling bioavailability Spatial heterogeneity Chemotaxis Substrate Inhibition
+

@@ -1,0 +1,4 @@
+Specular and off-specular reflection of polarized neutrons from magnetic thin films and multilayers
+
+diffuse scattering
+

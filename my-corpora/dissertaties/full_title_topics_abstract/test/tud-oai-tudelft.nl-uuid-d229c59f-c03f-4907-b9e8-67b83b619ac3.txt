@@ -1,0 +1,4 @@
+The clamped elastic grid, a fourth order equation on a domain with corner
+
+regularity
+

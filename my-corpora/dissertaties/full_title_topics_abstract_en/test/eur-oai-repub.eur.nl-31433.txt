@@ -1,0 +1,5 @@
+On time-frequence analysis of heart rate variability
+
+cardiology heart rate psychiatric patients time-frequency analysis
+
+textabstractThe aim of this research is to develop a time-frequency method suitable to study HRV in greater detail. The following approach was used: • two known time-frequency representations were applied to HRV to understand its advantages and disadvantages in describing HRV in frequency and in amplitude, over time; • a new method was developed that describes the time-varying fluctuations in the characteristic frequency bands of HRV by means of the instantaneous frequency and the instantaneous amplitude with an optimal time-resolution; • an index was developed to separate the oscillatory from the irregular periods in the instantaneous frequency; • from the instantaneous amplitude and frequency, we derived summarizing parameters which we applied to describe the changes in the instantaneous amplitude and frequency over time for the oscillatory and irregular periods separately

@@ -1,0 +1,4 @@
+Facilitating the development of design support software by abstract prototyping
+
+quality assurance
+

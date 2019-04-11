@@ -1,0 +1,4 @@
+Estimation of the mechanical loading of the shoulder joint in daily conditions
+
+IMMS (Inertial Magnetic Measurement Systems)
+

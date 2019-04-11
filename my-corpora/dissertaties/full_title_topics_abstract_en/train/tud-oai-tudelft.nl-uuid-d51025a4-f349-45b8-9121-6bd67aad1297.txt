@@ -1,0 +1,4 @@
+Stochastic inequality constrained closed-loop model predictive control with application to chemical process operation
+
+inequality constraints
+

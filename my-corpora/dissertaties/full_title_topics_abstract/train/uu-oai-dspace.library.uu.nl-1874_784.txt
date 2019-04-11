@@ -1,0 +1,4 @@
+Development of time-resolved XAFS spectroscopy techniques : applications in homogeneous catalysis
+
+spectroscopy XAFS time-resolved XANES AXAFS homogeneous catalysis theory data-analysis deactivation coupling reactions
+

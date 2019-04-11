@@ -1,0 +1,4 @@
+Online cluster-finding algorithms for the PANDA electromagnetic calorimeter
+
+To be checked by Faculty
+

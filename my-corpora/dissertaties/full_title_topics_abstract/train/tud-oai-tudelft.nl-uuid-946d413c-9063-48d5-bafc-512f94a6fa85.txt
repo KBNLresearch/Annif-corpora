@@ -1,0 +1,4 @@
+Development of a miniaturized total chemical analysis system for real-time monitoring of fermentations
+
+process monitoring
+

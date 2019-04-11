@@ -1,0 +1,4 @@
+Agent interaction: abstract approaches to modelling, programming and verifying multi-agent systems
+
+multi-agent systems agent interaction coordination programming languages agent modelling verification formal semantics intuitive approaches
+

@@ -1,0 +1,4 @@
+Stabilizing weak classifiers Regularization and combining techniques in discriminant analysis
+
+combining classifiers
+

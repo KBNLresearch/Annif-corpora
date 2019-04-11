@@ -1,0 +1,4 @@
+Developing New Methods for Efficient Container Stacking Operations
+
+container yard operations minimize the number of reshuffles minimize total travel time scheduling stacking operations yard crane
+

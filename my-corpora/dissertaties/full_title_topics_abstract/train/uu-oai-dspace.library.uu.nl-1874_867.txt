@@ -1,0 +1,4 @@
+Semidefinite optimization, a spectral approach
+
+eigenvalue optimization semidefinite programming convex optimization iterative methods subspace methods Newton methods large-scale problems spectral method
+

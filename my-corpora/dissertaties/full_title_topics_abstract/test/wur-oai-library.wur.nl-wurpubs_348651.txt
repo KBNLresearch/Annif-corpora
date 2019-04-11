@@ -1,0 +1,4 @@
+Representation of and reasoning with vagueness in spatial information : a system for handling vague objects
+
+geographical information systems mathematical models fuzzy logic boundaries
+

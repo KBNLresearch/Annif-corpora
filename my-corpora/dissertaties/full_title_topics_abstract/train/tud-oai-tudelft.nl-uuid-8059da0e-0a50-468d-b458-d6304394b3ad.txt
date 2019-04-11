@@ -1,0 +1,4 @@
+Towards on-line logistics The LinC Interaction Modeling Language
+
+interaction contracts
+

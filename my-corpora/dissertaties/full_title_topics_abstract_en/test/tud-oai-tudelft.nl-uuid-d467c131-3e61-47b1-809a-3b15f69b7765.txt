@@ -1,0 +1,4 @@
+Removing Love waves from shallow seismic SH-wave data
+
+filter
+

@@ -1,0 +1,4 @@
+Proof nets for lingusitic analysis
+
+automated deduction categorial grammar complexity Lambek calculus linear logic proof nets proof theory tree adjoining grammars
+

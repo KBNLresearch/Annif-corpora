@@ -1,0 +1,4 @@
+Sequents and link graphs: contraction criteria for refinements of multiplicative linear logic
+
+multiplicative linear logic proof theory categorical grammar substructural logic refinement proof structure link graph sequent
+

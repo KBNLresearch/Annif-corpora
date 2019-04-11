@@ -1,0 +1,4 @@
+Numerical Simulations of Competitive-Consecutive Reactions in Turbulent Channel Flow
+
+passive scalar
+

@@ -1,0 +1,4 @@
+On asymptotic approximations of first integrals for a class of nonlinear oscillators
+
+poincare-map
+

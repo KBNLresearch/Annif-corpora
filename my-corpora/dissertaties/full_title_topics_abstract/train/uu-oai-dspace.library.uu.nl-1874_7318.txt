@@ -1,0 +1,4 @@
+Computational and Visual Support for Exploratory Geovisualization and Knowledge Construction
+
+geovisualization information visualization self-organizing map spatial analysis data mining knowledge discovery exploratory visualization visual exploration knowledge construction
+

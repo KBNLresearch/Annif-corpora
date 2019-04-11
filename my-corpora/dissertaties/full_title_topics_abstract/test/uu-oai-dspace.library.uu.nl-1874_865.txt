@@ -1,0 +1,4 @@
+Lamé Equations with Finite Monodromy
+
+Lamé differential equation monodromy group Fuchsian differential equation algebraic function reflection group group invariants rational pull-back function
+

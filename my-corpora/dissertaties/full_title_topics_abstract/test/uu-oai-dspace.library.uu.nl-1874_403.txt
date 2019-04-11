@@ -1,0 +1,4 @@
+Accelerated Monte Carlo simulation for scatter correction in SPECT
+
+emission tomography SPECT scatter Monte Carlo cardiac imaging dual isotope technetium thallium modeling
+

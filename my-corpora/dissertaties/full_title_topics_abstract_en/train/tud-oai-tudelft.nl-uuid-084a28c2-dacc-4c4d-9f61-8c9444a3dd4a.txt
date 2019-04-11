@@ -1,0 +1,4 @@
+Modal methods for rehomogenization of nodal cross sections in nuclear reactor core analysis
+
+Cross-section model
+

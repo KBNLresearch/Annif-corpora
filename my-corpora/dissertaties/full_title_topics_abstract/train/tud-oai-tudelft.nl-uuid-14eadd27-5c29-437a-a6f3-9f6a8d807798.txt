@@ -1,0 +1,4 @@
+Silicon Photomultipliers and Monolithic Scintillators for Time-of-Flight PET
+
+LaBr3:Ce
+

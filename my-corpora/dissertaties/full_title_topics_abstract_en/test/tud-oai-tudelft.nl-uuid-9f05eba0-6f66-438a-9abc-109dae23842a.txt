@@ -1,0 +1,4 @@
+Smoothness-Increasing Accuracy-Conserving Filters for Discontinuous Galerkin Methods Challenging the Assumptions of Symmetry and Uniformity
+
+boundaries
+

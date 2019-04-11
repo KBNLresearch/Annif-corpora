@@ -1,0 +1,4 @@
+Uncertainties in segmentation and their visualisation
+
+geoscience remote sensing classification segmentation uncertainty visualisation spatial objects exploration interactivity software
+

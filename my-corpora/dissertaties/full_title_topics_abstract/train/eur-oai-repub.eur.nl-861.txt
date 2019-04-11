@@ -1,0 +1,4 @@
+Layout and Routing Methods for Warehouses
+
+Layout Order picking Routing heuristic multiple blocks optimal optimization warehouses
+

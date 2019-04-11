@@ -1,0 +1,4 @@
+Model based control of a flight simulator motion system
+
+parallel motion systems
+

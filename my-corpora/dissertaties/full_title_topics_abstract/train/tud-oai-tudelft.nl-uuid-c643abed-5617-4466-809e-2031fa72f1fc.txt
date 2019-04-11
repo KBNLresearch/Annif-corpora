@@ -1,0 +1,4 @@
+Automated Design of Application-Specific Smart Camera Architectures
+
+architecture-independent programs
+

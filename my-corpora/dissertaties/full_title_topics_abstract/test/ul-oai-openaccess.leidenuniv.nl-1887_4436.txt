@@ -1,0 +1,4 @@
+Components and targets of the PINOID signaling complex in Arabidopsis thaliana
+
+Indole-3-acetic acid Polar auxin transport PIN auxin efflux carrier PINOID protein kinase Phosphorylation Auxin signaling PINOID binding proteins scaffold proteins proteolysis Kinesin
+

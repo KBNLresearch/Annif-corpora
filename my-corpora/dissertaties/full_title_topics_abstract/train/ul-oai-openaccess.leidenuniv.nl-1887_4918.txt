@@ -1,0 +1,4 @@
+Modelling long term survival with non-proportional hazards
+
+Gamma frailty Non-proportional hazards Overdispersion Reduced-rank models Relaxed Burr Survival analysis Time varying effects
+

@@ -1,0 +1,5 @@
+Pharmacokinetic Optimization of Docetaxel Dosing
+
+docetaxel osing
+
+textabstractSince clinical evaluations started in the early nineties, the anticancer drug docetaxel has obtained a prominent place in the treatment of various human malignancies. Marketing approval currently includes the treatment of patients with breast cancer, non-small-cell lung cancer, androgen-independent prostate cancer (AIPC) and patients with advanced gastric cancer. Following initial introduction much research has focused on docetaxel’s clinical pharmacological properties in an attempt to improve the risk-benefit ratio for docetaxel treatment. In particular, reducing the substantial degree of interindividual variability in docetaxel pharmacokinetics, which is associated with the observed variability in toxicity, is an aspect, which has received much attention.

@@ -1,0 +1,4 @@
+Local hydroelastic response of ship structures under impact loads from water (slamming)
+
+hydrodynamic loads
+

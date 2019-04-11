@@ -1,0 +1,4 @@
+Domain decomposition in the Jacobi-Davidson method for eigenproblems
+
+Eigenvalue problem domain decomposition iterative method Jacobi-Davidson Schwarz method eigenvalue eigenvector
+

@@ -1,0 +1,4 @@
+Spatiotonal adaptivity in super-resolution of under-sampled image sequences
+
+super-resolution synthesis
+

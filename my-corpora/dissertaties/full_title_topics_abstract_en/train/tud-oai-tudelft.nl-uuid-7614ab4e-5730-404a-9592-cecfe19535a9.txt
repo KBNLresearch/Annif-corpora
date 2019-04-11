@@ -1,0 +1,4 @@
+Mechanical and vibro-acoustic aspects of composite sandwich cylinders
+
+finite element method
+

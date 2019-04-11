@@ -1,0 +1,4 @@
+Detection and reconstruction of short-lived particles produced by neutrino interactions in emulsion
+
+Neutrino Oscillation CHORUS Wire-chamber Data-acquisition Emulsion Tracking Charm Fragmentation
+

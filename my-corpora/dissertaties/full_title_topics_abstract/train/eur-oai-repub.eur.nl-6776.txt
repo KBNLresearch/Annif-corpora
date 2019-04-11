@@ -1,0 +1,4 @@
+Essays on Quantitative Marketing Models and Monte Carlo Integration Methods
+
+Monte Carlo methods marketing models
+

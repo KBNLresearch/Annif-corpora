@@ -1,0 +1,4 @@
+Visualization and exploration of multichannel EEG coherence networks
+
+To be checked by Faculty
+

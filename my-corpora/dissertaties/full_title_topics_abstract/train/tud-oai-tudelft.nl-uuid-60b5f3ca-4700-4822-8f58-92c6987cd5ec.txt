@@ -1,0 +1,4 @@
+Non-Cartesian MRI scan time reduction through sparse sampling
+
+irregular sampling
+

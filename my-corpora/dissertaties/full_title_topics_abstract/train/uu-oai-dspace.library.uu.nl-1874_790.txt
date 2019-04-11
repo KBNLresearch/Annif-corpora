@@ -1,0 +1,4 @@
+NMR-based docking of protein-protein complexes : the human UbcH5b-CNOT4 ubiquitination complex
+
+protein-protein docking molecular dynamics Nuclear Magnetic Resonance ubiquitination pathway ring finger proteins CCR4-NOT complex transcription repression
+

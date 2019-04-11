@@ -1,0 +1,4 @@
+Conditional Optimization : An N-particle formalism for protein structure refinement
+
+conditional optimization protein crystallography ab initio phasing molecular dynamics
+

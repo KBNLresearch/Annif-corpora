@@ -1,0 +1,4 @@
+The Discrete Acyclic Digraph Markov Model in Data Mining
+
+graphical Markov model structural learning bayesian network heuristic search Markov chain Monte Carlo TCI Markov model graphical Markov model inclusion
+

@@ -1,0 +1,4 @@
+Changes in pilot control behaviour across Stewart platform motion systems
+
+Stewart platform
+

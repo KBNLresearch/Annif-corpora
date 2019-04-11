@@ -1,0 +1,4 @@
+Variational data assimilation of satellite observations to estimate volcanic ash emissions
+
+Evaluation score
+

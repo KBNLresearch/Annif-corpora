@@ -1,0 +1,4 @@
+Deterministic equation solving over finite fields
+
+Equations over finite fields Algorithms Deterministic
+

@@ -1,0 +1,4 @@
+Statistical methods for marginal inference from multivariate ordinal data
+
+
+

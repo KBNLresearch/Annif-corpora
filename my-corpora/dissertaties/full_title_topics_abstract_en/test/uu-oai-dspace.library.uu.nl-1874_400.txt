@@ -1,0 +1,5 @@
+Thermal modelling for hyperthermia
+
+interstitial hyperthermia thermal modelling discrete vasculature validation temperature
+calculations bovine tongues prostate perfusion
+

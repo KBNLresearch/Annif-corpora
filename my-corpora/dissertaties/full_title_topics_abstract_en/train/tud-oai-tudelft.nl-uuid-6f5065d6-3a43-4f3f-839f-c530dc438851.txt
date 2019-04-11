@@ -1,0 +1,4 @@
+Fault diagnosis and maintenance optimization for interconnected systems With applications to railway and climate control systems
+
+Failure prognosis
+

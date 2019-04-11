@@ -1,0 +1,4 @@
+Statistical methods for analysing complex genetic traits
+
+Familial aggregation Ascertainment issue Linkage analysis Genetic association studies Multiple testing problem Score statistic
+

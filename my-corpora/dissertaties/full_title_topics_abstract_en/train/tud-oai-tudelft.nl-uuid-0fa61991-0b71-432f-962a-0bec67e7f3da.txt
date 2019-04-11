@@ -1,0 +1,4 @@
+Design reuse in product shape modeling A study of freeform feature reuse by signal processing techniques
+
+shape descriptor
+

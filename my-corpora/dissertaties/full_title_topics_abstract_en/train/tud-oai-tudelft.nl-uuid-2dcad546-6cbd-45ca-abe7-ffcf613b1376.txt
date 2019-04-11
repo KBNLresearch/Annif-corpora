@@ -1,0 +1,4 @@
+Proximity of Terms, Texts and Semantic Vectors in Information Retrieval
+
+recommender systems
+

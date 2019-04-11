@@ -1,0 +1,4 @@
+Stress analysis of structural bonded joints
+
+bondline thickness
+

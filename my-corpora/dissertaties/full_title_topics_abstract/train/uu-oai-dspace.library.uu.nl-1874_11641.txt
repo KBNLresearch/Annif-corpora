@@ -1,0 +1,4 @@
+Mineral potential mapping with mathematical geological models
+
+GIS mathematical models mineral potential mapping base metals Aravalli Province (India) fuzzy models bayesian models neural networks neurofuzzy models
+

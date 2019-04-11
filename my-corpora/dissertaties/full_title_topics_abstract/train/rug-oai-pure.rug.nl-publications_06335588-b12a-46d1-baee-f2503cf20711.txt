@@ -1,0 +1,4 @@
+Some notes on Bayesian time series analysis in psychology
+
+To be checked by Faculty
+

@@ -1,0 +1,4 @@
+Nonlinear Dynamics of Self-excitation in Autoparametric Systems
+
+self-excitation autoparametric semitrivial bifurcation manifold rescale coupled
+

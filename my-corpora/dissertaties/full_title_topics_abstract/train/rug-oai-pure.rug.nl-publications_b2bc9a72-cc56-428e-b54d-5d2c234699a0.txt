@@ -1,0 +1,4 @@
+Integration techniques for modern bioinformatics workflows
+
+To be checked by Faculty
+

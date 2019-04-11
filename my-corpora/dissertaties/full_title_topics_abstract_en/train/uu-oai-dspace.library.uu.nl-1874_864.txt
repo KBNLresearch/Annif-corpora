@@ -1,0 +1,4 @@
+Genetic algorithms for map labeling
+
+genetic algorithm map labeling linkage names palcement gambler s ruin
+

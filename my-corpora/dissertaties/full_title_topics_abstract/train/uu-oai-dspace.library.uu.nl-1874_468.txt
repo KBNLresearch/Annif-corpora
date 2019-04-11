@@ -1,0 +1,4 @@
+Analysis of diverse signal transduction pathways using the genetic model system Caenorhabditis elegans
+
+signal transduction Caenorhabditis elegans heterotrimeric G protein G-alpha-12 adenylyl cyclase minibrain DYRK kinase mRNA export
+

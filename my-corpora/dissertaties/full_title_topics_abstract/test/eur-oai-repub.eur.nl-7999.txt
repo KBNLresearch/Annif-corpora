@@ -1,0 +1,5 @@
+Modulation of Synaptic Transmission by Metabotropic Glutamate Receptors and Endocannabinoid Signaling
+
+
+
+textabstractMetabotropic glutamate receptors (mGluRs) are distributed throughout the central nervous system and play important roles in the modulation of synaptic transmission. The mGluRs regulate long-term potentiation (LTP)/long-term depression (LTD) and learning and memory in hippocampus. This group of glutamate receptors are also reported to exert anticonvulsive and neuroprotective efficacy, especially group I mGluRs. Kindling induced by repeated application of the convulsant pentylenetetrazole (PTZ) is a validated model of epilepsy and epilepsy-related neuromorphological, neurophysiological and behavioural alterations. In this thesis, the role of group I metabotropic glutamate receptors (mGluRs) in PTZ induced seizures, kindling, kindling-related learning deficits and LTP were examined.
