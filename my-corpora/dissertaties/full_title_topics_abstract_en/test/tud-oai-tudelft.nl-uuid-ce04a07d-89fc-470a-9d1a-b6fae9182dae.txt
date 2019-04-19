@@ -1,4 +1,0 @@
-Train Trajectory Optimization Methods for Energy-Efficient Railway Operations
-
-Genetic Algorithms
-

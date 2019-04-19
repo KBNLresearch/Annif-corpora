@@ -1,4 +1,0 @@
-Model-Based Control of Industrial Batch Crystallizers Experiments on Enhanced Controllability by Seeding Actuation
-
-dynamic optimization
-

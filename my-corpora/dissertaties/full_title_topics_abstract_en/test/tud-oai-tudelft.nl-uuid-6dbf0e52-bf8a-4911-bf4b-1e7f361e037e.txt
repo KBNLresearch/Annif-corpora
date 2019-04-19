@@ -1,4 +1,0 @@
-The Molen Polymorphic Media Processor
-
-hardware accelerators
-

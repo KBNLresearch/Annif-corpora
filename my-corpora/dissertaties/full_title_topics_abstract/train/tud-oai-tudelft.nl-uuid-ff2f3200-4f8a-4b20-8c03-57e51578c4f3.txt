@@ -1,4 +1,0 @@
-High-resolution EM-CCD scintillation gamma cameras
-
-small-animal SPECT
-

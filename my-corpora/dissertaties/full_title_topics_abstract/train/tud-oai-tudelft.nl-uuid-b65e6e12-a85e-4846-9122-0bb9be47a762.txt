@@ -1,4 +1,0 @@
-Microscopic modelling of walking behaviour
-
-Nomad model
-

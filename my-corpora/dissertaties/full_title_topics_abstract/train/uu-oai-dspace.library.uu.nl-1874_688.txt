@@ -1,4 +1,0 @@
-Beauty at HERA-B : Measurement of the bb Production Cross Section in pN Collisions at sqrt(s) = 41.6 GeV
-
-quark : beauty quark : pair production beauty --> J/psi(3100) anything quark : decay J/psi(3100) leptonic decay track data analysis : vertex channel cross section magnetic detector : HERA-B experimental results p nucleus --> 2beauty anything
-

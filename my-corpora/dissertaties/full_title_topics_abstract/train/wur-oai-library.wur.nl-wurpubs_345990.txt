@@ -1,4 +1,0 @@
-Integrating crop growth simulation and remote sensing to improve resource use efficiency in farming systems
-
-crop production simulation models remote sensing farming systems use efficiency
-

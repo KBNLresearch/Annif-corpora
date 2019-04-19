@@ -1,4 +1,0 @@
-Atomistic simulation of Cu-Ta thin film deposition and other phenomena
-
-density functional theory
-

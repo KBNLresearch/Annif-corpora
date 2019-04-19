@@ -1,4 +1,0 @@
-Parallel Hardware Architectures for the Life Sciences
-
-
-

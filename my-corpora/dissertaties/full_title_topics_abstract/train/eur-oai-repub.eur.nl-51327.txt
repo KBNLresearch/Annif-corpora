@@ -1,5 +1,0 @@
-The spatio-temporal organization of DNA-repair: a live cell study
-
-DNA molecular biology repair
-
-textabstractThe aim of the work outlined in this thesis is to gain more insight into the organization, dynamic properties and differential reaction kinetics of NER factors within living mammalian cell nuclei. To accomplish this, we made use of the green fluorescent protein technology to study TFIIH and XPC in living cells. We mainly focused on: (i) nuclear distribution of the multifunctional TFIIH and the GG-NER sensor XPC-hHR23B under various conditions, (ii) dynamic interactions of TFIIH with NER, RNAPl and RNAP2 transcription, (iii) the understanding of how TFIIH accomplishes its multiple engagements, (iv) the functional requirement for CAK in NER, and (v) involvement of XPC-hHR23B with NER is unclear

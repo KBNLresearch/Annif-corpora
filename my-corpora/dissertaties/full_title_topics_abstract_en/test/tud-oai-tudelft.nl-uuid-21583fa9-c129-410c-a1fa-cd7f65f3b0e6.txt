@@ -1,4 +1,0 @@
-Efficient Visual Tracking with Spatial Constraints
-
-Speed up
-

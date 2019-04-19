@@ -1,4 +1,0 @@
-Effects of spatial confinement on conduction electrons in semiconductor nanostructures
-
-dielectric constant porous semiconductor TRMC electron mobility hydrodynamic model quantum dots nanocrystals IR oscillator strength electron energy level
-

@@ -1,4 +1,0 @@
-Predicting the mutual intelligibility of Germanic languages from linguistic and extra-linguistic factors
-
-
-

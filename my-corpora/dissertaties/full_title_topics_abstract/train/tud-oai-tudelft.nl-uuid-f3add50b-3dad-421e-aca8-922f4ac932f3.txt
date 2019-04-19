@@ -1,4 +1,0 @@
-Electron spin and charge in semiconductor quantum dots
-
-kondo effect
-

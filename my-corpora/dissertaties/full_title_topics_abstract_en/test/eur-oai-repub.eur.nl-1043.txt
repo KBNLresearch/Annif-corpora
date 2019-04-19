@@ -1,4 +1,0 @@
-Dealing with Derivatives. Studies on the role, informational content and pricing of financial derivatives
-
-Experimental research Financial Derivatives Implied GARCH volatility forecasting Insider strategies Markets Pricing the spikes in power options Stocks empirical studies implied distribution model
-

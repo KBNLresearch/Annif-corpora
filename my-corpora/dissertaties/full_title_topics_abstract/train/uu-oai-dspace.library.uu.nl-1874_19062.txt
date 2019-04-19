@@ -1,4 +1,0 @@
-The biogenesis and function of small RNAs in C. elegans
-
-RNAi miRNA siRNA rde-2 rrf-2 pasha sex-determination fem-2 dosage compensation C. elegans
-

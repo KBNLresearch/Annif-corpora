@@ -1,4 +1,0 @@
-Optimization of nodule management in CT lung cancer screening
-
-
-

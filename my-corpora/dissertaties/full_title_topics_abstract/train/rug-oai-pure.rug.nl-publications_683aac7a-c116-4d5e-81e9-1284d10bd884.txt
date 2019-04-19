@@ -1,4 +1,0 @@
-Cross-lingual Semantic Parsing with Categorial Grammars
-
-To be checked by Faculty
-

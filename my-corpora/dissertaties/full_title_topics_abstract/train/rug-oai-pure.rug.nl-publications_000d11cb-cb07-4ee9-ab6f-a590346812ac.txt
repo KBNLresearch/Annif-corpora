@@ -1,4 +1,0 @@
-Applications of the random-state approach to quantum many-body dynamics
-
-To be checked by Faculty
-

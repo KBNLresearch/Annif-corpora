@@ -1,4 +1,0 @@
-Semi-analytical long-arc satellite orbit computation and the estimation of time-varying gravity parameters
-
-parameter estimation
-

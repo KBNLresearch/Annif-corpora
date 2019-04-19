@@ -1,4 +1,0 @@
-Knowledge Discovery and Monotonicity
-
-association rules attribute reduction splitting criteria classification frequent patterns generation function decomposition knowledge discovery monotone decision trees monotonicity property pruning rough sets theory
-

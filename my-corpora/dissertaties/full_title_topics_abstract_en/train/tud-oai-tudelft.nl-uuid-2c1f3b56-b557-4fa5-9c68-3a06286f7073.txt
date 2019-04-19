@@ -1,4 +1,0 @@
-Dynamic Route Choice Modelling of the Effects of Travel Information using RP Data
-
-GPS traces
-

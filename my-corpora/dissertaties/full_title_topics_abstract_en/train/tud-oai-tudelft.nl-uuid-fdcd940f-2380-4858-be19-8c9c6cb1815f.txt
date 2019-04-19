@@ -1,4 +1,0 @@
-Predictive control based on black-box state-space models
-
-
-

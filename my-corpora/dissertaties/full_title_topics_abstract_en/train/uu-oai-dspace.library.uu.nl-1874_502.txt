@@ -1,4 +1,0 @@
-Modeling repeated measurement data for occupational exposure assessment and epidemiology
-
-exposure- assessment mixed model repeated-measures variance-between variance-within
-

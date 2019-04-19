@@ -1,4 +1,0 @@
-Homology of classical groups and K-theory
-
-posets unitary groups homology stability K-theory
-

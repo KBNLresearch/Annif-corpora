@@ -1,4 +1,0 @@
-Seismic ray fields and ray field maps : theory and algorithms
-
-seismic ray theory ray fields ray field maps phase space position/angle domain seismic imaging accurate interpolation intrapolation Dutch Taylor expansion paraxial ray tracing
-

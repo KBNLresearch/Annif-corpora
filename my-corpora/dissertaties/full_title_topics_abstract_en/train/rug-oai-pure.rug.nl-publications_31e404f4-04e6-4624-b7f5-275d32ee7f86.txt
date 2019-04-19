@@ -1,4 +1,0 @@
-Considerations on modeling for early detection of abnormalities in locally autonomous distributed systems
-
-Fouten, Detectie Proefschriften (vorm) Gedistribueerde gegevensverwerking, Computermodellen , computernetwerken
-

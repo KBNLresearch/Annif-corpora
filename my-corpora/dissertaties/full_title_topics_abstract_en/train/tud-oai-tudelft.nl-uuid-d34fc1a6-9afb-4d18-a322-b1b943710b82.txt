@@ -1,4 +1,0 @@
-Multi-anode linear SDDs for high-resolution X-ray spectroscopy
-
-p-JFET integration
-

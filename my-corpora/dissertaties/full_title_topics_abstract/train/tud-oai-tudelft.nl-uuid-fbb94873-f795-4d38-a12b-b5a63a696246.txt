@@ -1,4 +1,0 @@
-Simulation Based Analysis of Electric Power Conversion Systems
-
-power electronics
-

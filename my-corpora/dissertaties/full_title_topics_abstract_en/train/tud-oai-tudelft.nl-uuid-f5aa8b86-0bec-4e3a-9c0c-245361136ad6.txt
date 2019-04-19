@@ -1,4 +1,0 @@
-Module and System Design in Flexible Automated Assembly
-
-module and system design
-

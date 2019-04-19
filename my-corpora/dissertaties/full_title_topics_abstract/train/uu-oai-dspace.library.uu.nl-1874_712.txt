@@ -1,4 +1,0 @@
-Energy resolving power of transition-edge X-ray microcalorimeters
-
-Transition Edge Sensor X-ray spectrometer microcalorimeter superconducting cryogenic noise energy resolving power
-

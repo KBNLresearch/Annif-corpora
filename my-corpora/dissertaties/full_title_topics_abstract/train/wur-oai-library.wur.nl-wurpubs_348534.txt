@@ -1,4 +1,0 @@
-Determination of regional surface heat fluxes over heterogeneous landscapes by integrating satellite remote sensing with boundary layer observations
-
-heat flow remote sensing Meteorology (General) satellite surveys meteorological observations atmosphere landscape air flow heat exchange boundary layer land surface
-

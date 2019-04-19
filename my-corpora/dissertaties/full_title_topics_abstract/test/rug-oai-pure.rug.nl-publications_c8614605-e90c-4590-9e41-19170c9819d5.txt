@@ -1,4 +1,0 @@
-Robust Synchronization and Model Reduction of Multi-Agent Systems
-
-To be checked by Faculty
-

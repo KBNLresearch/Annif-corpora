@@ -1,4 +1,0 @@
-Computational studies of protein-ligand molecular recognition
-
-docking structure-based design molecular recognition Monte Carlo configurational bias Monte Carlo scoring computational chemistry computational medicinal chemistry parallel tempering HIV protease
-

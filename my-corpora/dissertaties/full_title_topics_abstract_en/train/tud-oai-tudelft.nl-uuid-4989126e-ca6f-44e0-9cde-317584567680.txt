@@ -1,4 +1,0 @@
-The interaction between diesel engines, ship and propellers during manoeuvring
-
-uncertainty analysis
-

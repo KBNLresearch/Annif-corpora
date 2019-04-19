@@ -1,4 +1,0 @@
-Prototyping of Silicon Strip Detectors for the Inner Tracker of the ALICE Experiment
-
-ALICE Silicon Strip Detectors Front-End quality assurance infrared laser characterization Beam Test efficiency telescope resolution
-

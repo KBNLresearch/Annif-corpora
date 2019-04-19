@@ -1,4 +1,0 @@
-Equivalence of Reductions in Higher-Order Rewriting
-
-
-

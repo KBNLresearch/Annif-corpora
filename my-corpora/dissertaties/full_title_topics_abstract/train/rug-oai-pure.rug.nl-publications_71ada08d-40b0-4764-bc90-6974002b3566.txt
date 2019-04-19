@@ -1,4 +1,0 @@
-VBARMS: A variable block algebraic recursive multilevel solver for sparse linear systems
-
-
-

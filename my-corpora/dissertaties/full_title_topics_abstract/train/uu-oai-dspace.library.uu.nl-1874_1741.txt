@@ -1,4 +1,0 @@
-Activation and inhibition mechanisms of the cGMP-dependent protein kinase studied by mass spectrometry
-
-protein kinases non-covalent mass spectrometry phosphopeptide enrichment photoaffinity labeling nanoflow-LC-MS
-

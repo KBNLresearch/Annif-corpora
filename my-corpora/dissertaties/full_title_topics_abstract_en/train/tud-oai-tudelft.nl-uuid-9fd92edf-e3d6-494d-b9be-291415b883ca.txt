@@ -1,4 +1,0 @@
-Spectral tailoring for boron Neutron capture therapy
-
-Adjoint Monte Carlo
-

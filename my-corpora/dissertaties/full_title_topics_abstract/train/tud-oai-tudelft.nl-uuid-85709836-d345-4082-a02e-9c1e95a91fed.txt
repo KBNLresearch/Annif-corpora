@@ -1,4 +1,0 @@
-Embedding data and task parallelism in image processing applications
-
-task parallelism
-

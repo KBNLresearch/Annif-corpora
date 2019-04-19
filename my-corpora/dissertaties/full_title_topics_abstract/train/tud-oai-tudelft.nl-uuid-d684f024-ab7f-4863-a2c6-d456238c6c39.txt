@@ -1,4 +1,0 @@
-Parallel manipulators with two end-effectors Getting a grip on Jacobian-based stiffness analysis
-
-Jacobian analysis
-

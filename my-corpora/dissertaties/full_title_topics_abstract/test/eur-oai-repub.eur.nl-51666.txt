@@ -1,5 +1,0 @@
-Automated Analysis of 3D Stress Echocardiography
-
-echocardiography cardiology cardiovascular diseases stress echo
-
-markdownabstract__Abstract__  The human circulatory system consists of the heart, blood, arteries, veins and capillaries. The heart is the muscular organ which pumps the blood through the human body (Fig. 1.1,1.2). Deoxygenated blood flows through the right atrium into the right ventricle, which pumps the blood into the pulmonary arteries. The blood is carried to the lungs, where it passes through a capillary network that enables the release of carbon dioxide and the uptake of oxygen. Oxygenated blood then returns to the heart via the pulmonary veins and flows from the left atrium into the left ventricle. The left ventricle then pumps the blood through the aorta, the major artery which supplies blood to the rest of the body [Drake et a!., 2005; Guyton and Halt 1996]. Therefore, it is vital that the cardiovascular system remains healthy. Disease of the cardiovascular system, if untreated, ultimately leads to the failure of other organs and death.

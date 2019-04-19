@@ -1,4 +1,0 @@
-Higher-Order Resonances in Dynamical Systems
-
-Hamiltonian mechanics higher-order resonance normal forms symmetry elastic pendulum symplectic numerical integration widely separated frequencies singular perturbation bifurcation coupled oscillators
-

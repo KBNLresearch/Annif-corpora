@@ -1,4 +1,0 @@
-Modelling the locational determinants of house prices: neural network and value tree approaches
-
-location house prices housing market modelling property value modelling multiple equilibria institutions preferences neural network multiattribute value tree appraisal
-

@@ -1,4 +1,0 @@
-Health-state valuation using discrete choice models
-
-To be checked by Faculty
-

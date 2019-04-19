@@ -1,4 +1,0 @@
-Grid support by power electronic converters of distributed generation units
-
-voltage control
-

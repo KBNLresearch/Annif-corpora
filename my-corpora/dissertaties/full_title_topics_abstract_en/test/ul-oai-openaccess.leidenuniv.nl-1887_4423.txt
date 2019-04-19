@@ -1,4 +1,0 @@
-Automated contour detection in echocardiographic images
-
-Echocardiography Automated border detection Heart Left ventricle Ultrasound Model-based detection Dynamic programming Statistical shape models
-

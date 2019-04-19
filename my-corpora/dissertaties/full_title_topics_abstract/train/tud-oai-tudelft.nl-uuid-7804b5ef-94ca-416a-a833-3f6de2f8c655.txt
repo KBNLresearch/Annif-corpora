@@ -1,4 +1,0 @@
-Computational modelling of rubber-like materials under monotonic and cyclic loading
-
-finite element method
-

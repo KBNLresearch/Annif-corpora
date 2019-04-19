@@ -1,4 +1,0 @@
-Old and Young. Can they coexist?
-
-population dynamics age-structured population discrete-time model competitive exclusion cohort competition bifurcation vertical bifurcation one-dimensional dynamics Magicicada synchronization
-

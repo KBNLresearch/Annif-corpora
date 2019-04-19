@@ -1,4 +1,0 @@
-Test point insertion to improve BIST performance, and to reduce ATPG test time and data volume
-
-TPI
-

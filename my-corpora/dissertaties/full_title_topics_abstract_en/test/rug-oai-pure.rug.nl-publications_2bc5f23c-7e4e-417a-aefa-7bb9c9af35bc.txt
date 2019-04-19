@@ -1,4 +1,0 @@
-Prediction of neurodegenerative diseases from functional brain imaging data
-
-
-

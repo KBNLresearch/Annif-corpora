@@ -1,4 +1,0 @@
-Modeling Affective State using Learning Vector Quantization
-
-
-

@@ -1,4 +1,0 @@
-Modelling interception and transpiration at monthly time steps Introducing daily variability through Markov chains
-
-
-

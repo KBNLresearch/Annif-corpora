@@ -1,4 +1,0 @@
-Efficient optimization methods for freeway management and control
-
-UAV path planning
-

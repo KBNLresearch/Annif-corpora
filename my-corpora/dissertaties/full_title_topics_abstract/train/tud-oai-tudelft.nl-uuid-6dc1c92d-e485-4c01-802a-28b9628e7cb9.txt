@@ -1,4 +1,0 @@
-Plan Merging in Multi-Agent Systems
-
-resource allocation
-

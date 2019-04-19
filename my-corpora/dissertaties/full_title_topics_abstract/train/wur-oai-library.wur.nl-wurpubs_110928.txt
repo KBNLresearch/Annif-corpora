@@ -1,4 +1,0 @@
-Computer simulation of energy relaxation and -transport in organized porphyrin systems
-
-computer simulation porphyrins spectroscopy optical properties photochemistry Organic Chemistry
-

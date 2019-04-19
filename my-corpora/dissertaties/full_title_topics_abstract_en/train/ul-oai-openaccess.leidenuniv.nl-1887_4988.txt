@@ -1,4 +1,0 @@
-Imperfect Fabry-Perot resonators
-
-Aberrations Cavity Scattering Waveguide Chaos Effective index Fabry-Perot Frequency degeneracy Gouy phase Mode coupling Optical resonator Optical testing
-

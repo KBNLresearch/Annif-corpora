@@ -1,4 +1,0 @@
-Simulation of Polymer Dynamics in Gels and Melts
-
-polymer dynamics reptation lattice polymer models gel electrophoresis polymer melt phase separation computer simulation
-

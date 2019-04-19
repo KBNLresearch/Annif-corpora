@@ -1,4 +1,0 @@
-A designerly methodology for software development
-
-complex systems
-

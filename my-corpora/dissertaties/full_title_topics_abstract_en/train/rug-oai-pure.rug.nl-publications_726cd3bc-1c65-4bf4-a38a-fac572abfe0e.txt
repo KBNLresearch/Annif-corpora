@@ -1,4 +1,0 @@
-Multi-script handwritten character recognition Using feature descriptors and machine learning
-
-To be checked by Faculty
-

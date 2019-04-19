@@ -1,4 +1,0 @@
-Accurate relative stopping power prediction from dual energy CT for proton therapy Methodology and experimental validation
-
-To be checked by Faculty
-

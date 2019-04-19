@@ -1,5 +1,0 @@
-Three-dimensional Conformal Radiation Therapy Techniques for Rectal Cancer
-
-rectal cancer colorectal cancer radiotherapy gastroenterology gastrointestinal toxicity
-
-markdownabstract__Abstract__  The third most common malignancy in the Netherlands is colorectal cancer. Rectal cancer affects every year around 2000 new patients. The highest incidence is found at an age above 70 years, and in men (sex ratio: 1.48). In Europe, the treatment of preference for locally advanced rectal cancer is surgery and preoperative radiotherapy. The addition of concurrent chemotherapy is currently investigated. However, these combined modality treatments induce side effects. Diarrhea is the major side effect of (neo-)adjuvant radiation therapy for rectal cancer [3, 15]. An overview of acute and late severe bowel toxicity is given in tables 1.1-1.3.

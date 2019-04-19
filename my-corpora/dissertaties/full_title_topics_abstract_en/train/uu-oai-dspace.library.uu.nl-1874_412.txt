@@ -1,4 +1,0 @@
-Spectral analysis in microscopy : a study of FRET and single quantum dot luminescence
-
-fluorescence microscopy spectral analysis Förster resonance energy transfer FRET quantum dots Monte Carlo simulations
-

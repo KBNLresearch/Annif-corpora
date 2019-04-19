@@ -1,4 +1,0 @@
-Architectural assumptions and their management in software development
-
-To be checked by Faculty
-

@@ -1,4 +1,0 @@
-Efficient model predictive control for large-scale urban traffic networks
-
-model predictive control
-

@@ -1,4 +1,0 @@
-Sequence-based learning algorithms for understanding and improving protein characteristics
-
-Aspergillus niger
-

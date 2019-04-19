@@ -1,4 +1,0 @@
-A mathematical analysis of a belt system with a low and time-varying velocity
-
-phase-plane
-

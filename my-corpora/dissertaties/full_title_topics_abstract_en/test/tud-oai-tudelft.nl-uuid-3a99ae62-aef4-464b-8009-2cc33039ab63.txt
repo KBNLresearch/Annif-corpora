@@ -1,4 +1,0 @@
-Multilevel optimization of anisogrid lattice structures for aerospace applications
-
-
-

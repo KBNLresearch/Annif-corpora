@@ -1,4 +1,0 @@
-Retrieving Architectural Information Objects by the Heuristics of Laziness
-
-
-

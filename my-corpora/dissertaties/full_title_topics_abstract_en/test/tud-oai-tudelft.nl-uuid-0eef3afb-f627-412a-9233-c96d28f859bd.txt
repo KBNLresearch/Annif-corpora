@@ -1,4 +1,0 @@
-Discrete-time sliding mode control
-
-
-

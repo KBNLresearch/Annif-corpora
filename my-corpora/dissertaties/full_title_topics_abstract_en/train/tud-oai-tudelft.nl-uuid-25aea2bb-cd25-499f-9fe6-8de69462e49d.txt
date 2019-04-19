@@ -1,4 +1,0 @@
-Modelling and optimization of a permanent-magnet machine in a flywheel
-
-energy storage technologies
-

@@ -1,4 +1,0 @@
-Face recognition in low-resolution images under small sample conditions with face-part detection and alignment
-
-To be checked by Faculty
-

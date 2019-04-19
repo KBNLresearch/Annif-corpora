@@ -1,4 +1,0 @@
-Modeling Strategies for Electro-Mechanical Microsystems with Uncertainty Quantification
-
-electro-mechanics
-

@@ -1,4 +1,0 @@
-Parcel-based Geo-Information System Concepts and guidelines
-
-
-

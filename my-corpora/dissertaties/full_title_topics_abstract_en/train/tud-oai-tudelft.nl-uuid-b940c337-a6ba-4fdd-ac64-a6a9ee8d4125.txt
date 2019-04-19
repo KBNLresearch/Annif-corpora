@@ -1,4 +1,0 @@
-The Hydro-Support An Elasto-Hydrostatic Thrust Bearing with Mixed Lubrication
-
-finite element method
-

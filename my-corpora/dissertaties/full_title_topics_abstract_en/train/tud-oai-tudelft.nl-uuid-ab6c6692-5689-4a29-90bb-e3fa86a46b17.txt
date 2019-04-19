@@ -1,4 +1,0 @@
-Coordinated model predictive control of synchromodal freight transport systems
-
-
-

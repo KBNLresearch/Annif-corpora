@@ -1,5 +1,0 @@
-Results on geometric networks and data structures
-
-data structures computational geometry colo(u)red range searching significant-presence range query window query
-rectangle intersection query bounding-volume hierarchy R-tree geometric minimum-diameter spanning tree t-spanner
-

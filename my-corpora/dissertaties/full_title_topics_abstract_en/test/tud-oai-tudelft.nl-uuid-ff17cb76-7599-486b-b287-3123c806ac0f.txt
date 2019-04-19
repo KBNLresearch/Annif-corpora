@@ -1,4 +1,0 @@
-The effect of mechanical stress on bipolar transistor characteristics
-
-minority carriers
-

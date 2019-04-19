@@ -1,4 +1,0 @@
-Evaluating DEM results with FEM perspectives of load : soil interaction
-
-soil mechanics soil compaction soil structure soil properties simulation models particles dynamic loads finite element analysis Soil Physics Mathematical Models, Simulation Models
-

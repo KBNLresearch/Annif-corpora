@@ -1,4 +1,0 @@
-J/ Psi in pA : Performance of the First Level Trigger of Hera-B and Nuclear Effects in J/Psi Production
-
-trigger processors J/psi meson charmonium A-dependence proton nucleus QGP quark-gluon-plasma
-

@@ -1,4 +1,0 @@
-CMOS bandgap references and temperature sensors and their applications
-
-dynamic element matching
-

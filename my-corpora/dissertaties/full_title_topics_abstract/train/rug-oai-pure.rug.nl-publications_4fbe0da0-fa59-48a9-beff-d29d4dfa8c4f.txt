@@ -1,4 +1,0 @@
-New methods for the numerical solution of Maxwell's equations
-
-Proefschriften (vorm) Algoritmen Numerieke methoden Vergelijkingen van Maxwell Elektromagnetisme 31.76 33.16
-

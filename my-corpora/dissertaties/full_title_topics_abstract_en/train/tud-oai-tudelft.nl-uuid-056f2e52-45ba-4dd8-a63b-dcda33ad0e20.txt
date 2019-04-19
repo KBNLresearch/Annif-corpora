@@ -1,4 +1,0 @@
-Multiscale and probabilistic modelling of micro electromechanical systems
-
-micro electromechanical systems
-

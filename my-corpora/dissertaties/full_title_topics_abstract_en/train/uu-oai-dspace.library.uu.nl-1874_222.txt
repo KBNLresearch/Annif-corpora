@@ -1,4 +1,0 @@
-Comparative Genome Analysis and Genome Evolution
-
-genome bioinformatics evolution protein interactions phylogeny proteobacteria archaeabacteria gene order
-

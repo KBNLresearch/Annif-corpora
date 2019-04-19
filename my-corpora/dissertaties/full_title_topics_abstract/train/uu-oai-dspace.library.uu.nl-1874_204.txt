@@ -1,4 +1,0 @@
-Translational control of Connexin 30 and 41 m RNAs in Xenopus laevis embryos
-
-5'UTR 3'UTR protein synthesis gap junctional communication GJC untranslated region uORF upstream open reading frame stalling
-

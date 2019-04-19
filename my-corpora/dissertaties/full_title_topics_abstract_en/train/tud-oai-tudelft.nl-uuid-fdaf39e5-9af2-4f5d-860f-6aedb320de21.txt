@@ -1,4 +1,0 @@
-Generic Model Predictive Control Framework for Advanced Driver Assistance Systems
-
-Advanced Driver Assistance Systems
-

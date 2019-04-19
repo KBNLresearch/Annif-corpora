@@ -1,4 +1,0 @@
-A cognitive framework for an urban environment design tool
-
-OODBS
-

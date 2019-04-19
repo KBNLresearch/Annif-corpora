@@ -1,4 +1,0 @@
-Design of Nonlinear Circuits The Linear Time-Varying Approach
-
-lyapunov exponent
-

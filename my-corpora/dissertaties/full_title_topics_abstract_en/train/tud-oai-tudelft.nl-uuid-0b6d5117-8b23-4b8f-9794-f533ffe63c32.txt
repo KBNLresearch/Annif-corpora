@@ -1,4 +1,0 @@
-Dynamics of flexible multibody systems Small vibrations superimposed on a general rigid body motion
-
-finite element method
-

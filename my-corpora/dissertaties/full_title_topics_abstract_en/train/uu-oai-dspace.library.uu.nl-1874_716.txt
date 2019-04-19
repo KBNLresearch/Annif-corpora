@@ -1,4 +1,0 @@
-Radio pulsars
-
-pulsars: general pulsars: individual (PSR B0809+74 PSR B0818-13 PSR B0320+39) acceleration of particles magnetic fields polarization telescopes surveys
-

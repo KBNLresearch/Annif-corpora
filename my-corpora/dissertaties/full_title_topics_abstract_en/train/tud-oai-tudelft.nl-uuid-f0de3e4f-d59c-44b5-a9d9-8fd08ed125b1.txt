@@ -1,4 +1,0 @@
-Code Generation and Optimization for Embedded Processors
-
-embedded processors
-

@@ -1,4 +1,0 @@
-Quantum Superpositions of Persistent Josephson Currents
-
-quantum computation
-

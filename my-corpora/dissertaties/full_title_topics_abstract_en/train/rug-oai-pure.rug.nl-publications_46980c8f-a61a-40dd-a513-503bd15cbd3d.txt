@@ -1,4 +1,0 @@
-A geometric approach to differential-algebraic systems from bisimulation to control by interconnection
-
-To be checked by Faculty
-

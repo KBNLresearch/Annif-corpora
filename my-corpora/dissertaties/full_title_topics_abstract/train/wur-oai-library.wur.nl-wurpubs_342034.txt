@@ -1,4 +1,0 @@
-Tropical forest mapping using polarimetric and interferometric SAR data
-
-mapping forest inventories remote sensing imagery indonesia polarimetry interferometry classification
-

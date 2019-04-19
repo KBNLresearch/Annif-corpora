@@ -1,4 +1,0 @@
-Satellite data as complementary information for hydrological modelling
-
-Evaporation
-

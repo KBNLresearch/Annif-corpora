@@ -1,4 +1,0 @@
-Advances in DFT-Based Single-Microphone Speech Enhancement
-
-multivariate normal inverse gaussian
-

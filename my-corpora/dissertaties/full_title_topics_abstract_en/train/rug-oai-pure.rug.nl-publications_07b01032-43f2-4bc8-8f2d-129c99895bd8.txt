@@ -1,4 +1,0 @@
-Distributed control of power networks Passivity, optimality and energy functions
-
-To be checked by Faculty
-

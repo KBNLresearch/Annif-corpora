@@ -1,4 +1,0 @@
-Logistics of emergency response vehicles Facility location, routing, and shift scheduling
-
-
-

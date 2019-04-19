@@ -1,4 +1,0 @@
-Agent programming languages: programming with mental models
-
-intelligent agents action Goal practical reasoning communication speech act meeting scheduling agent programming language 3APL GOAL (Programming Language)
-

@@ -1,6 +1,0 @@
-Cutting in deformable objects
-
-Finite Element Method Conjugate Gradients Virtual Reality Mesh 
-Representation Deformation Deformable objects Medical simulation Surgery 
-Simulation.
-

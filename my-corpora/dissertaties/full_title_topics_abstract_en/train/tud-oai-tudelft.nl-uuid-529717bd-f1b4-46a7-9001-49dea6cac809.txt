@@ -1,4 +1,0 @@
-Holonic control for large scale automated logistic systems
-
-automation
-

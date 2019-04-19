@@ -1,4 +1,0 @@
-Full-Wave Analysis of Electrically Large Reflector Antennas
-
-preconditioning
-

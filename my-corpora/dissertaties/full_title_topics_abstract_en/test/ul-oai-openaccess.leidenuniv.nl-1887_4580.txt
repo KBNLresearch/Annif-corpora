@@ -1,4 +1,0 @@
-Growing and moving planets in disks
-
-Hydrodynamics Numerical methods Planet formation
-

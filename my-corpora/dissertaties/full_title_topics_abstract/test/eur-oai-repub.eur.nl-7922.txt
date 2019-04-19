@@ -1,4 +1,0 @@
-Modulography: elasticity imaging of atherosclerotic plaques
-
-atherosclerosis elasticity intravascular ultrasound (IVUS) inverse problem tissue characterization vulnerable plaque
-

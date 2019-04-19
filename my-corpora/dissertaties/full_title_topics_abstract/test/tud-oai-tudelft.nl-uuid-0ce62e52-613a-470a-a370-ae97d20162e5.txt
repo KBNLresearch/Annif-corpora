@@ -1,4 +1,0 @@
-Infrared micro-spectrometer based on a multi-slit grating
-
-
-

@@ -1,4 +1,0 @@
-Modelling of RF High Power Bipolar Transistors
-
-Power transistor modelling
-

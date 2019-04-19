@@ -1,4 +1,0 @@
-Exploiting Dynamics in robotic arms with repetitive tasks
-
-springs
-

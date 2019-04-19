@@ -1,4 +1,0 @@
-A model of Dutch agriculture based on Positive Mathematical Programming with regional and environmental applications
-
-agriculture netherlands european union Agricultural Sector cap linear programming models dairy farming animal manures environmental policy regions environmental impact
-

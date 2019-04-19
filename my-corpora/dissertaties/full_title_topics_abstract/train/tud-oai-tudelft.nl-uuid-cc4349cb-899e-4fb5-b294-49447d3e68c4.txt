@@ -1,4 +1,0 @@
-An analytic approach to electromagnetic scattering problems
-
-sub-wavelength apertures
-

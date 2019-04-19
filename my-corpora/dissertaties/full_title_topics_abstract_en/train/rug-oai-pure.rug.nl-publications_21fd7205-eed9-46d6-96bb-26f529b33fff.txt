@@ -1,4 +1,0 @@
-Contour detection and shape recognition in image analysis
-
-Proefschriften (vorm) Beeldverwerking beeldverwerking patroonherkenning
-

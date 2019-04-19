@@ -1,4 +1,0 @@
-Wheel-rail rolling contact and its application to wear simulation
-
-wear
-

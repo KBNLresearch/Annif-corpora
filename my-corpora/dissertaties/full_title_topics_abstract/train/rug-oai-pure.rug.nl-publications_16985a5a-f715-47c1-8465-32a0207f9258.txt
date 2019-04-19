@@ -1,4 +1,0 @@
-Stabilization with Guaranteed Safety of Nonlinear Systems
-
-To be checked by Faculty
-

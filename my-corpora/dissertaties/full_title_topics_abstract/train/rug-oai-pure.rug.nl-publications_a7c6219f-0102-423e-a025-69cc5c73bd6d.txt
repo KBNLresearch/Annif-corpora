@@ -1,4 +1,0 @@
-Efficient sequential and parallel algorithms for morphological image processing
-
-Proefschriften (vorm) Beeldverwerking Parallelle verwerking Algoritmen 54.10
-

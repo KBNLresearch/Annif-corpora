@@ -1,4 +1,0 @@
-A viewpoint adaptive system for 3-D telepresence
-
-
-

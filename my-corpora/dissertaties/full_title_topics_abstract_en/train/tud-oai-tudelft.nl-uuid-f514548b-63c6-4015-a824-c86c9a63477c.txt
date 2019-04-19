@@ -1,4 +1,0 @@
-Efficient numerical methods for the instationary solution of laminar reacting gas flow problems
-
-newton-krylov methods
-

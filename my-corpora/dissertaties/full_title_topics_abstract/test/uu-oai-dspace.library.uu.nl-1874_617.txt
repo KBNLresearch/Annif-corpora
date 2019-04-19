@@ -1,4 +1,0 @@
-Transparent parsing : Head-driven processing of verb-final structures
-
-syntax Minimalist Program competence performance garden paths sentence processing head-driven processing reanalysis parsing theory grammar
-

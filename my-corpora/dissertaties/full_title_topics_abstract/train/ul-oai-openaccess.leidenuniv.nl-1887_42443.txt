@@ -1,4 +1,0 @@
-Spin dynamics in general relativity
-
-Spin Hamiltonian formalism Worldline deviations Periastron precession Geodetic precession
-

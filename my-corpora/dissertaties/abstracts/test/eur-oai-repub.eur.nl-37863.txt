@@ -1,1 +1,0 @@
-textabstractAn important inference framework in statistical methods is based on the likelihood function. First we will review the likelihood theory for independent observations. Then we use correlated data likelihood modeling concepts to introduce the h-likelihood framework.

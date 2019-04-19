@@ -1,4 +1,0 @@
-Viscous-inviscid interaction with the quasi-simultaneous method for 2D and 3D aerodynamic flow
-
-Proefschriften (vorm) Vleugels (vliegtuigen) Modellen Aërodynamica Optimaliseren 31.81
-

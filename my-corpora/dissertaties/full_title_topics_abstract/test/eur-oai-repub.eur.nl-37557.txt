@@ -1,6 +1,0 @@
-Immunological Function of Draining Lymph Nodes in Multiple Sclerosis and Animal Models
-Multiple Sclerosis and Animal Models
-
-CNS inflammation MS Multiple Sclerosis cervical lymph nodes macrophage
-
-textabstractMultiple sclerosis (MS) is characterized by demyelination and irreversible neuronal damage. Although the cause of this damage is not yet elucidated, autoreactive lymphocytes against myelin and neuronal antigens could be instrumental. In view of understanding MS pathogenesis and possible therapeutic interventions aiming to limit activation of autoreactive lymphocytes, it is crucial to know in what anatomical locations these lymphocytes are activated. We hypothesized that antigens from the central nervous system (CNS) drain to the CNS-draining lymph nodes, and that at this location autoreactive lymphocytes are activated, thereby contributing to infammation during MS and its animal model EAE. To test this hypothesis, we combined analysis of human MS lymph nodes with functional studies using distinct animal models for brain infammation and injury. In this thesis, the involvement of the distinct CNS-draining lymphoid organs in drainage of CNS antigens and immunity against these antigens during MS and EAE will be discussed.

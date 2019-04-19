@@ -1,4 +1,0 @@
-Gibbs measures for models on lines and trees
-
-To be checked by Faculty
-

@@ -1,4 +1,0 @@
-Mean-field description of the structure and tension of curved fluid interfaces
-
-Bending rigidity Colloid-polymer Fluid interfaces Mean-field theory Pickering emulsion Square-gradient theory Tolman length van der Waals theory Wetting
-

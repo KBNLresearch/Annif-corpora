@@ -1,4 +1,0 @@
-Detection of Lung Cancer Using Optical Spectroscopy
-
-bronchoscopy lung cancer optical spectroscopy
-

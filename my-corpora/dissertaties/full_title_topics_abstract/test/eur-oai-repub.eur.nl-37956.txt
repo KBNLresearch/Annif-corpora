@@ -1,5 +1,0 @@
-Generation of an immunocompetent B-cell Repertoire
-
-B-cells immune system
-
-textabstractThe immune system of higher vertebrates, such as humans, has multiple lines of defense against invading microorganisms. The first line is a physical and chemical barrier formed by the skin, mucous membranes and their secretions to prevent the entrance of microorganisms into the body.1-3 The second line consists of proteins (e.g. complement)4 and immune cells (e.g. macrophages, granulocytes, natural killer cells) which are the components of the innate immune system.5-6 Finally, the third line concerns the adaptive immune system with T and B lymphocytes specifically interacting with the invading pathogen. These cells do not only recognize pathogen with a specific antigen receptor, they also adapt their response during an infection to improve recognition of the pathogen and they generate long-term immunological memory.

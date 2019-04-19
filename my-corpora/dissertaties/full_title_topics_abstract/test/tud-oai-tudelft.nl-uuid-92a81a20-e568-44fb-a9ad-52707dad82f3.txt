@@ -1,4 +1,0 @@
-Object-based Video Segmentation with Region Labeling
-
-
-

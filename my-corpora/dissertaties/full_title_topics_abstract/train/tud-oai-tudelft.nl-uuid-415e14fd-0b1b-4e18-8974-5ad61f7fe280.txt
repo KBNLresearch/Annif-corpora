@@ -1,4 +1,0 @@
-Online Model Learning Algorithms for Actor-Critic Control
-
-local linear regression
-

@@ -1,4 +1,0 @@
-Modern Strategies for the Numerical Modeling of the Cyclic and Transient Behavior of Soils
-
-implicit integration
-

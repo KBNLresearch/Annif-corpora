@@ -1,4 +1,0 @@
-Optimisation of the Near-Wellbore Geometry of Hydraulic Fractures Propagating from Cased Perforated Completions
-
-geometry
-

@@ -1,4 +1,0 @@
-Multimodality cardiac image analysis for the assessment of coronary artery disease
-
-Cardiac imaging Coronary artery disease Myocardial perfusion Multimodality Cardiovasculuar Image processing CTCA MR SPECT
-

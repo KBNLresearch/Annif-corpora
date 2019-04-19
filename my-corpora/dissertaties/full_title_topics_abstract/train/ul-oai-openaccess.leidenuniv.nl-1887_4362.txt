@@ -1,4 +1,0 @@
-Verifying OCL specifications of UML models tool support and compositionality
-
-D.2.4 [Software Engineering]: Software/Program Verification - formal methods; F.3.1 [Logics and Meanings of Programs]: Specifying and Verifying and Reasoning about Programs - specification techniques
-

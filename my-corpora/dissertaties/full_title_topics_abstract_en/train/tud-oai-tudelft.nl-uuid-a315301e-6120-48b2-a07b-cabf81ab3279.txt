@@ -1,4 +1,0 @@
-Energy saving for belt conveyors by speed control
-
-variable coefficients
-

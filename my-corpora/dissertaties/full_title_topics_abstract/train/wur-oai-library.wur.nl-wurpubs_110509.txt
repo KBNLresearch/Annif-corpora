@@ -1,4 +1,0 @@
-Change detection with remote sensing : relating NOAA-AVHRR to environmental impact of agriculture in Europe
-
-agricultural land land evaluation remote sensing image processing methodology
-

@@ -1,4 +1,0 @@
-Improving the scalability of multicore systems with a focus on H.264 video decoding
-
-
-

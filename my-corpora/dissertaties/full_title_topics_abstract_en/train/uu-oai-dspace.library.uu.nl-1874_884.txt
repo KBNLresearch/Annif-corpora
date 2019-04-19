@@ -1,4 +1,0 @@
-Geometry and dynamics in Hamiltonian lattices
-
-Fermi-Pasta-Ulam chain Birkhoff normal forms symmetry resonance dynamics invariant manifolds singular reduction monodromy KAM theory
-

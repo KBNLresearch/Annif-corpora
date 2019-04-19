@@ -1,4 +1,0 @@
-Monotonicity and Boundedness in general Runge-Kutta methods
-
-Runge-Kutta Monotonicity Boundedness
-

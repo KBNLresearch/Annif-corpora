@@ -1,4 +1,0 @@
-Molecular Simulation of Binary and Ternary Vapour-Liquid Equilibria
-
-vapour-liquid equilibria
-

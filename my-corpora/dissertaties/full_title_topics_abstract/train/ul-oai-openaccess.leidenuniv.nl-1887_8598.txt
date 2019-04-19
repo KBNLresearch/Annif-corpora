@@ -1,4 +1,0 @@
-Mobile channels for exogenous coordination of distributed systems semantics, implementation and composition.
-
-Components Coordination Distributed algorithms Distributed systems Middleware Mobile channels Semantics
-

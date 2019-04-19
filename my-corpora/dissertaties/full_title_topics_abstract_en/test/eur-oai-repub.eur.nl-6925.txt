@@ -1,4 +1,0 @@
-Distributed Simulation in Industry
-
-Commercial-Off-The-Shelf (COTS) simulation packages Cost-benefit ratio of distributed simulation in industry industrie software Distributed modelling of complex systems Distributed simulation Interview with simulation experts Requirements for distributed simulation architectures Reusability Simulation in industry The FAMAS Simulation Backbone Architecture The High Level Architecture
-

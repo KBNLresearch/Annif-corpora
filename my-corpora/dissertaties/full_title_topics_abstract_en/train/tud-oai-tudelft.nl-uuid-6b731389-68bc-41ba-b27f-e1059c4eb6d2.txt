@@ -1,4 +1,0 @@
-Parallel Natural Language Parsing From Analysis to Speedup
-
-natural language
-

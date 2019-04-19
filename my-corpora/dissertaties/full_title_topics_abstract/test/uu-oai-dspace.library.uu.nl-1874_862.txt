@@ -1,4 +1,0 @@
-On the construction and stationary distributions of some spatial queueing and particle systems
-
-construction interacting particle systems queueing systems stability stationary distribution
-

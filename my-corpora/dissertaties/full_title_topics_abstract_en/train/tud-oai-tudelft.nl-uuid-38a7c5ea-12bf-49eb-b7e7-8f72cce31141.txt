@@ -1,4 +1,0 @@
-Control and Coordination for Automated Container Terminals
-
-free-ranging AGVs
-

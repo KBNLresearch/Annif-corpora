@@ -1,4 +1,0 @@
-Protein folding and translocation single-molecule investigations
-
-Protein translocation Protein folding Chaperones Optical tweezers Single-molecule biophysics Bacteriophage DNA-packaging Molecular dynamics SecB SecYEG
-

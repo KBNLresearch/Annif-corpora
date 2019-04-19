@@ -1,4 +1,0 @@
-Modeling, robust and distributed model predictive control for freeway networks
-
-scenario-based distributed model predictive control
-

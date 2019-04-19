@@ -1,4 +1,0 @@
-Application and efficiency of sequential tests in matched case-control studies
-
-continuous sequential analysis group sequential analysis matched case-control data efficiency
-

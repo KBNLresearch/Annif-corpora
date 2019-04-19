@@ -1,4 +1,0 @@
-Halide Scintillators
-
-energy transfer
-

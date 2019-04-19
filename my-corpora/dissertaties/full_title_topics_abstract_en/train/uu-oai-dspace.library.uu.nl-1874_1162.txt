@@ -1,4 +1,0 @@
-Chaos in systems with many degrees of freedom
-
-chaos hard disks Boltzmann equation hard spheres Lorentz gas dynamical system statistical mechanics kinetic theory Lyapunov exponent Kolmogorov-Sinai entropy Goldstone mode
-

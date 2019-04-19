@@ -1,4 +1,0 @@
-Event by event method for quantum interference simulation
-
-
-

@@ -1,4 +1,0 @@
-Dynamics of gas-solids fluidized beds Analysis of pressure fluctuations
-
-Kolmogorov entropy
-

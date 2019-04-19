@@ -1,4 +1,0 @@
-Fast Model Predictive Control Approaches for Road Traffic Control
-
-fast model predictive control
-

@@ -1,4 +1,0 @@
-Discontinuities in materials and structures A unifying computational approach
-
-discrete dislocation analysis
-

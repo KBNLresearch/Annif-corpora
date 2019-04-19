@@ -1,4 +1,0 @@
-On approximations, complexity, and applications for copositive programming
-
-
-

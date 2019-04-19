@@ -1,4 +1,0 @@
-Condition monitoring for marine refrigeration plants based on process models
-
-simulation
-

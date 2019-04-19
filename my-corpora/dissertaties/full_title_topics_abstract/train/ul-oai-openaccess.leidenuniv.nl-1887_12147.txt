@@ -1,4 +1,0 @@
-Phonetic implementation of phonological categories in Sign Language of the Netherlands
-
-Linguistics Sign language Phonetics Phonology
-

@@ -1,4 +1,0 @@
-Modeling heat exchanges at the land-atmosphere interface using multi-angular thermal infrared measurements
-
-air temperature heat transfer remote sensing canopy foliage area temperature soil temperature models land surface Thermodynamics
-

@@ -1,4 +1,0 @@
-Design of a period batch control planning system for cellular manufacturing
-
-Proefschriften (vorm) Productiesystemen Productieplanning Batch processing 85.35
-

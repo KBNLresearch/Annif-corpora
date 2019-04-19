@@ -1,4 +1,0 @@
-Implementation of SNPs in pig genetics: LD and QTL analysis
-
-pigs genetic markers Races, Selection, Genetics obesity quantitative traits dna sequencing nucleotides polymorphism genetic analysis genetics animal breeding
-

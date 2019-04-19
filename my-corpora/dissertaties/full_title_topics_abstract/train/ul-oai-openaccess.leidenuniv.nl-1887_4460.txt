@@ -1,4 +1,0 @@
-3D active shape modeling for cardiac MR and CT image segmentation
-
-Active Shape Model Grid-computing Data density Fuzzy Sparse Image orientation
-

@@ -1,4 +1,0 @@
-Self-consistent-field theory for chain molecules: extensions, computational aspects, and applications
-
-polymers molecular conformation thermodynamics Polymer Chemistry
-

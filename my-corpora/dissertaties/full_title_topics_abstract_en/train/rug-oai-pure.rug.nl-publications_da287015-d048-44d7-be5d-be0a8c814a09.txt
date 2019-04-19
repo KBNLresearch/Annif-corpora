@@ -1,4 +1,0 @@
-Single-cell manipulation and dynamic metabolite detection in Escherichia coli
-
-To be checked by Faculty
-

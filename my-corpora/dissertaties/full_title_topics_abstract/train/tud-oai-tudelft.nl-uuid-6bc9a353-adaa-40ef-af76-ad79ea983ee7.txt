@@ -1,4 +1,0 @@
-Data Driven Fault Tolerant Control A Subspace Approach
-
-Numerical algorithms
-

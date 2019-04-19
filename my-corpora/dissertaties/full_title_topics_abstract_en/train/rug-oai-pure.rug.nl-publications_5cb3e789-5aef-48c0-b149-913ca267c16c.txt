@@ -1,4 +1,0 @@
-Algorithms and moduli spaces for differential equations
-
-
-

@@ -1,4 +1,0 @@
-Multi-Scale Pattern Recognition for Image Classification and Segmentation
-
-multiple-instance learning
-

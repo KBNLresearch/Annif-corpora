@@ -1,4 +1,0 @@
-Turbulence and particle dynamics in dense crystal slurries A numerical study by means of lattice-Boltzmann simulations
-
-
-

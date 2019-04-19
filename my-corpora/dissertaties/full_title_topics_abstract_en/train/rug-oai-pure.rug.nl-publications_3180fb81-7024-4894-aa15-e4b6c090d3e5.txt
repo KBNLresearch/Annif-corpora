@@ -1,4 +1,0 @@
-Applications of geometric control Constrained systems and switched systems
-
-
-

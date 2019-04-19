@@ -1,4 +1,0 @@
-Regionalised time series models for water table depths
-
-water table groundwater level Geohydrology, Soil Hydrology measurement time series statistical analysis stochastic models simulation models accuracy digital elevation model Probability Theory, Sampling Theory
-

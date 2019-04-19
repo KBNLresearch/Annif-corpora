@@ -1,4 +1,0 @@
-Virulence factors of Salmonella enterica serovar Enteritidis
-
-bacteria Salmonella macrophage pathogenicity island SPI SPI-6 cat2 pbpA yegQ protease succinate peptidoglycan Salmonella enteritidis genome mutation transposon virulence factors virulence genes pathogenesis chicken
-

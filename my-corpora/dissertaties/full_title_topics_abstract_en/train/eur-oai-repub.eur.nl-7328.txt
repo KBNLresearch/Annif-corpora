@@ -1,4 +1,0 @@
-Algorithmic Decision Support for Shunt Planning
-
-Shunt planning algorithms decision support railway planning
-

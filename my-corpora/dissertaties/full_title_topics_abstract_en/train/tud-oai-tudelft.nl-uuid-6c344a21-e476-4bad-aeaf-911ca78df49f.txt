@@ -1,4 +1,0 @@
-Rock expansion and compaction at the marker scale in gas producing reservoirs
-
-iterative solvers
-

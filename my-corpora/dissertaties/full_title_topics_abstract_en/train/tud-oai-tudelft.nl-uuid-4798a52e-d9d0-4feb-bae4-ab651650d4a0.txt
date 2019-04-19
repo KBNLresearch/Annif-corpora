@@ -1,4 +1,0 @@
-Three-dimensional processing of marine seismic data by spectral decomposition
-
-
-

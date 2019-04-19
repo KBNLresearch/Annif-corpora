@@ -1,4 +1,0 @@
-Quantization using jet space geometry and identity management using credential schemes
-
-To be checked by Faculty
-

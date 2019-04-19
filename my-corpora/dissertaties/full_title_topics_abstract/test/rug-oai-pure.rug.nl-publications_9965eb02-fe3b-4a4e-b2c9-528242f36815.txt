@@ -1,4 +1,0 @@
-Constructing tensegrity frameworks and related applications in multi-agent formation control
-
-To be checked by Faculty
-

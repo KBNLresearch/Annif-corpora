@@ -1,4 +1,0 @@
-Monitoring Fluidized Bed Hydrodynamics
-
-agglomeration detection
-

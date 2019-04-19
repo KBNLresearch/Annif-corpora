@@ -1,4 +1,0 @@
-Distributed bucket processing A paradigm for parallel image processing
-
-
-

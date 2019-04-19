@@ -1,4 +1,0 @@
-Depth perception and adaptation to disparity
-
-Stereo-vision depth perception adaptation stereopsis disparity binocular vision direction perception psychophysics anaglyph set-up visual system
-

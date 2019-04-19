@@ -1,4 +1,0 @@
-Elastodynamics with hysteretic damping
-
-moving loads
-

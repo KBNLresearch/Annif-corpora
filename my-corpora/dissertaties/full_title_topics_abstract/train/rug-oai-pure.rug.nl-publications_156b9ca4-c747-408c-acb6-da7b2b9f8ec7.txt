@@ -1,4 +1,0 @@
-Statistical pattern recognition for automatic writer identification and verification
-
-
-

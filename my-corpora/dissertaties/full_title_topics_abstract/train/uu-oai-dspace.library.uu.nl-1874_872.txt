@@ -1,4 +1,0 @@
-The deep structure of Gaussian scale space images
-
-scale space image analysis topology catastrophe theory singularity theory biological vision gaussian filters iso-intensity manifolds segmentation image hierarchy
-

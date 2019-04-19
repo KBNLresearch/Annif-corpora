@@ -1,4 +1,0 @@
-Estimation of focusing operators using the Common Focal Point method
-
-
-

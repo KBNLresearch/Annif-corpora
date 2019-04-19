@@ -1,4 +1,0 @@
-A front-capturing method for the numerical simulation of dispersed two-phase flow
-
-bubbles
-

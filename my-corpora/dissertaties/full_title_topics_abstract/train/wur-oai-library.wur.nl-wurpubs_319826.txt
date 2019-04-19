@@ -1,4 +1,0 @@
-Automatic differentiation algorithms in model analysis
-
-mathematics mathematical models differentiation algorithms computer analysis statistical inference statistical analysis sensitivity Numerical Mathematics
-

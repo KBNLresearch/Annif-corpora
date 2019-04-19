@@ -1,4 +1,0 @@
-Classifying hand configurations in Nederlandse Gebarentaal  (Sign Language of the Netherlands)
-
-sign language morphosyntax morphology hand configuration classifier agreement verb of motion Size and Shape Specifier root compound Sign Language of the Netherlands
-

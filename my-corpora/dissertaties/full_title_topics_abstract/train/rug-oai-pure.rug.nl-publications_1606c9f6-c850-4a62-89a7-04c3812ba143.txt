@@ -1,4 +1,0 @@
-Visual Analytics Applied to Image Analysis From Segmentation to Classification
-
-To be checked by Faculty
-

@@ -1,4 +1,0 @@
-Microcoded Reconfigurable Embedded Processors
-
-reconfigurable hardware
-

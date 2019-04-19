@@ -1,4 +1,0 @@
-Modeling and analysis of non-isothermal chemical reaction networks A port-Hamiltonian and contact geometry approach
-
-To be checked by Faculty
-

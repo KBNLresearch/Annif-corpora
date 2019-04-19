@@ -1,4 +1,0 @@
-Wavelet-based methods for the analysis of fMRI time series
-
-Proefschriften (vorm) Magnetic Resonance Imaging medische fysica
-

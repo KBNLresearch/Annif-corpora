@@ -1,4 +1,0 @@
-Developing interactive systems. A perspective on supporting ill-structured work
-
-ill-structured work
-

@@ -1,4 +1,0 @@
-Use and adaptation of precedents in architectural design. Toward an evolutionary design model
-
-re-use
-

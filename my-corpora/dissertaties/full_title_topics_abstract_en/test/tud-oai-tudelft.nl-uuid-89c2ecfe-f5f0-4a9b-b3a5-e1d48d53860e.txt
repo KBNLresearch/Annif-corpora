@@ -1,4 +1,0 @@
-Goal Adaptive Discretization of a One-Dimensional Boltzmann Equation
-
-Finite Element Method
-

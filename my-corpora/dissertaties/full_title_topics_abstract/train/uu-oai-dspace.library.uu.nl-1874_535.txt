@@ -1,6 +1,0 @@
-The effect of small-scale heterogeneity on the propagation of waves : with applications to forward modeling and inversion in
-global surface wave tomography
-
-Scattering theory ray theory inhomogeneous ray path sampling diffraction
-theory Fréchet kernels finite-frequency effects surface wave tomography caustics wave topography ultrasonic waves Fresnel zones spectral leakage effects
-

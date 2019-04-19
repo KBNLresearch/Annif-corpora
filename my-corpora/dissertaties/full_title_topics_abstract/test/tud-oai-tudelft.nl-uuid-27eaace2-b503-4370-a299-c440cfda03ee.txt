@@ -1,4 +1,0 @@
-Development of Silicon Drift Detectors using Boron layer technology
-
-PureB JFET
-

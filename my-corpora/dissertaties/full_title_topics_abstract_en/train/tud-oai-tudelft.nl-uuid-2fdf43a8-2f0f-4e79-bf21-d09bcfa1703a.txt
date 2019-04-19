@@ -1,4 +1,0 @@
-Application sharing services design and performance
-
-training
-

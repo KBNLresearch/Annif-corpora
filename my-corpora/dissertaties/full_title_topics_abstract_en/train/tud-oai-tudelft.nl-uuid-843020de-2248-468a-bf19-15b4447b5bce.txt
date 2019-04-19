@@ -1,4 +1,0 @@
-Organization structures for dealing with complexity
-
-complexity
-
